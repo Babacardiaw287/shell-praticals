@@ -1,0 +1,11 @@
+    1  clear 
+    2  ls -a   
+    3  ls
+# la commande ls -a liste tous les dossiers meme les dossiers cachés tandis que la commande ls liste uniquement les dossiers
+    4  ls -R
+# Cette commande liste les dossiers, sous dossiers et fichiers 
+    5  cd unix
+    6  ls
+    7  wc exo1.txt
+    8  wc -l exo1.txt
+    9  history >> exo2.txt
